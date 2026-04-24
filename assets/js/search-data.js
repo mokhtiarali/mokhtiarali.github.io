@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Last updated April 2026. Industry variant below; an academic variant is also available.",
+          description: "Last updated April 2026. Tailored academic and internship variants are available directly on request.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
