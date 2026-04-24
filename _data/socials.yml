@@ -1,0 +1,9 @@
+# Social links for the site footer / about page.
+# Add a Google Scholar ID once the profile exists (not yet created).
+cv_pdf: /assets/pdf/cv_industry.pdf
+email: Mukhtiar.Ali@jacks.sdstate.edu
+github_username: GitAliGator
+# scholar_userid: # populate once Google Scholar profile is set up
+# linkedin_username: # populate once LinkedIn URL confirmed
+# orcid_id: # populate once ORCID is set up
+rss_icon: true
