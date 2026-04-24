@@ -2,7 +2,7 @@
 layout: page
 title: MuSDeT — Lightweight Wearable Stress Detection
 description: Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. <strong>Accepted at MULA@CVPR 2026.</strong>
-img: assets/img/1.jpg
+img: assets/img/1.webp
 importance: 1
 category: current
 related_publications: false
