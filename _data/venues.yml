@@ -1,9 +1,14 @@
-"AJP":
-  url: https://aapt.scitation.org/journal/ajp
-  color: "#00369f"
+# Venue badges for the publications page. Abbreviation key must match the
+# `abbr` field in papers.bib entries. Unlisted venues render with default styling.
 
-"PhysRev":
-  url: https://journals.aps.org/
+"CVPR":
+  url: https://cvpr.thecvf.com/
+  color: "#0055a4"
 
-"Vision":
-  color: "#009f36"
+"CVPR W":
+  url: https://cvpr.thecvf.com/
+  color: "#4a90d9"
+
+"MICCAI":
+  url: https://conferences.miccai.org/
+  color: "#00897b"
