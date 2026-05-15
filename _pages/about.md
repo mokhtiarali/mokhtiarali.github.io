@@ -10,7 +10,7 @@ profile:
   image_circular: true
   more_info: >
     <p>Brookings, SD</p>
-    <p><a href="mailto:Mukhtiar.Ali@jacks.sdstate.edu">Mukhtiar.Ali@jacks.sdstate.edu</a></p>
+    <p>Mukhtiar.Ali [at] jacks.sdstate.edu</p>
 
 selected_papers: true
 social: true
@@ -31,7 +31,3 @@ My doctoral trajectory builds on earlier work in medical image CNNs (breast canc
 I am actively seeking **research-scientist, research-engineer, and applied-scientist roles** in industry, as well as **academic postdoctoral and assistant-professor positions** starting 2026–2027. My [CV](/cv/) is up to date as of April 2026.
 
 Before the PhD I earned a B.S. in Software Engineering from the University of Azad Jammu & Kashmir (2018) and cofounded iRent, an early-stage real-estate rental platform that won the 2019 KP Impact Challenge startup competition organized by the Government of Khyber Pakhtunkhwa and Lahore University of Management Sciences.
-
-<div style="text-align: center; margin-top: 2rem;">
-  <script type="text/javascript" id="clstr_globe" src="//clustrmaps.com/globe.js?d=MGrQCNRcR4iTUyBElNxdeztCgjOr0E9FyYy8neh_sgo"></script>
-</div>
