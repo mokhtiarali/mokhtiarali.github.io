@@ -98,7 +98,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-HANDLE", "_blank");
+          window.open("https://www.linkedin.com/in/mokhtiarali", "_blank");
         },
       },{
       id: 'light-theme',
