@@ -67,20 +67,20 @@ layout: default
     <!-- Social -->
     {% if page.social %}
       <div class="social">
-        <div class="contact-icons">{% social_links %}</div>
+        <div class="contact-icons">
+          {% social_links %}
+          <span class="clustrmaps-inline" style="display: inline-block; width: 2.5rem; height: 2.5rem; vertical-align: middle;">
+            <script
+              type="text/javascript"
+              id="clstr_globe"
+              src="//clustrmaps.com/globe.js?d=MGrQCNRcR4iTUyBElNxdeztCgjOr0E9FyYy8neh_sgo"
+            ></script>
+          </span>
+        </div>
 
         <div class="contact-note">{{ site.contact_note }}</div>
       </div>
     {% endif %}
-
-    <!-- Visitor globe -->
-    <div class="clustrmaps" style="width: 200px; margin: 2rem auto 0;">
-      <script
-        type="text/javascript"
-        id="clstr_globe"
-        src="//clustrmaps.com/globe.js?d=MGrQCNRcR4iTUyBElNxdeztCgjOr0E9FyYy8neh_sgo"
-      ></script>
-    </div>
 
     {% if site.newsletter and site.newsletter.enabled and site.footer_fixed %}
       {% include newsletter.liquid center=true %}
