@@ -39,9 +39,6 @@ ninja.data = [{
           section: "News",},{id: "news-co-first-author-submission-to-miccai-2026-on-uncertainty-aware-multimodal-physiological-fusion-is-under-review",
           title: 'Co-first-author submission to MICCAI 2026 on uncertainty-aware multimodal physiological fusion is under review....',
           description: "",
-          section: "News",},{id: "news-registered-for-cvpr-2026-in-denver-and-submitted-cv-to-the-jobs-amp-amp-recruitment-program",
-          title: 'Registered for CVPR 2026 in Denver and submitted CV to the Jobs &amp;amp;amp;...',
-          description: "",
           section: "News",},{id: "projects-musdet-lightweight-wearable-stress-detection",
           title: 'MuSDeT — Lightweight Wearable Stress Detection',
           description: "Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. Accepted at MULA@CVPR 2026.",
@@ -83,13 +80,6 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/8_sentiment/";
             },},{
-        id: 'social-cv',
-        title: 'CV',
-        section: 'Socials',
-        handler: () => {
-          window.open("/assets/pdf/cv_industry.pdf", "_blank");
-        },
-      },{
         id: 'social-email',
         title: 'email',
         section: 'Socials',
@@ -104,11 +94,11 @@ ninja.data = [{
           window.open("https://github.com/GitAliGator", "_blank");
         },
       },{
-        id: 'social-rss',
-        title: 'RSS Feed',
+        id: 'social-linkedin',
+        title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("/feed.xml", "_blank");
+          window.open("https://www.linkedin.com/in/REPLACE-WITH-YOUR-LINKEDIN-HANDLE", "_blank");
         },
       },{
       id: 'light-theme',
