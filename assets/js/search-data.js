@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Last updated April 2026. Tailored academic and internship variants are available directly on request.",
+          description: "Last updated May 2026. Tailored academic and internship variants are available directly on request.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
@@ -33,11 +33,14 @@ ninja.data = [{
         },{id: "news-entered-the-final-year-of-my-phd-at-sdsu-graduation-targeted-for-fall-2026-on-the-market-for-research-scientist-research-engineer-and-applied-scientist-roles-as-well-as-postdocs-and-assistant-professor-positions",
           title: 'Entered the final year of my PhD at SDSU. Graduation targeted for Fall...',
           description: "",
-          section: "News",},{id: "news-first-author-paper-musdet-accepted-at-the-mula-workshop-cvpr-2026-code",
-          title: 'First-author paper MuSDeT accepted at the MULA Workshop, CVPR 2026. [Code]',
+          section: "News",},{id: "news-first-author-paper-musdet-accepted-at-the-mula-workshop-cvpr-2026-pdf-code",
+          title: 'First-author paper MuSDeT accepted at the MULA Workshop, CVPR 2026. [PDF] [Code]',
           description: "",
           section: "News",},{id: "news-co-first-author-submission-to-miccai-2026-on-uncertainty-aware-multimodal-physiological-fusion-is-under-review",
           title: 'Co-first-author submission to MICCAI 2026 on uncertainty-aware multimodal physiological fusion is under review....',
+          description: "",
+          section: "News",},{id: "news-heading-to-cvpr-2026-in-denver-co-presenting-musdet-at-the-mula-workshop-happy-to-meet-other-folks-working-on-multimodal-learning-wearable-biosignals-or-long-form-video-understanding-please-reach-out",
+          title: 'Heading to CVPR 2026 in Denver, CO. Presenting MuSDeT at the MULA Workshop....',
           description: "",
           section: "News",},{id: "projects-musdet-lightweight-wearable-stress-detection",
           title: 'MuSDeT — Lightweight Wearable Stress Detection',
@@ -99,6 +102,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://www.linkedin.com/in/mokhtiarali", "_blank");
+        },
+      },{
+        id: 'social-scholar',
+        title: 'Google Scholar',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://scholar.google.com/citations?user=rkft9HUAAAAJ", "_blank");
         },
       },{
       id: 'light-theme',
