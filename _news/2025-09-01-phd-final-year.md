@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Entered the final year of my PhD at SDSU. Graduation targeted for Fall 2026 — on the market for research-scientist, research-engineer, and applied-scientist roles, as well as postdocs and assistant-professor positions.
+Entered the final year of my PhD at South Dakota State University; graduation targeted for Fall 2026.

@@ -28,6 +28,6 @@ I am a final-year PhD candidate in Computer Science at South Dakota State Univer
 
 My doctoral trajectory builds on earlier work in medical image CNNs (breast cancer detection), human-state deep learning (driver drowsiness from eye-state video), and applied ML for social data. Today that arc continues through first-author work published at **CVPR 2026 (MULA Workshop)** — which I'll present in Denver in June — co-first-author work under review at **MICCAI 2026**, and two evaluation-suite efforts in preparation targeting CVPR 2027 on long-form video description.
 
-I am actively seeking **research-scientist, research-engineer, and applied-scientist roles** in industry, as well as **academic postdoctoral and assistant-professor positions** starting 2026–2027. My [CV](/cv/) is up to date as of May 2026.
+I'm open to industry research and academic faculty positions for 2026–2027. My full record is in my [CV](/cv/).
 
 Before the PhD I earned a B.S. in Software Engineering from the University of Azad Jammu & Kashmir (2018) and cofounded iRent, an early-stage real-estate rental platform that won the 2019 KP Impact Challenge startup competition organized by the Government of Khyber Pakhtunkhwa and Lahore University of Management Sciences.

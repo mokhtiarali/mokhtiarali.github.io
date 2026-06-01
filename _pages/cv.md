@@ -4,7 +4,6 @@ permalink: /cv/
 title: CV
 nav: true
 nav_order: 3
-description: Last updated May 2026. Tailored academic and internship variants are available directly on request.
 ---
 
 <div class="d-flex flex-wrap gap-2 mb-3">

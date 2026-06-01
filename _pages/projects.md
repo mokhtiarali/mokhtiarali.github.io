@@ -2,10 +2,10 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Research projects from the PhD, prior graduate work, and undergrad — in reverse chronological order.
+description: Selected research from my PhD in the Multimodal Intelligence (MINT) Lab at South Dakota State University.
 nav: true
 nav_order: 2
-display_categories: [current, prior]
+display_categories: [current]
 horizontal: false
 ---
 
