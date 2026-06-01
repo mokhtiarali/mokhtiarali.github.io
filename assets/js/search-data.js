@@ -18,20 +18,20 @@ ninja.data = [{
           },
         },{id: "nav-projects",
           title: "projects",
-          description: "Research projects from the PhD, prior graduate work, and undergrad — in reverse chronological order.",
+          description: "Selected research from my PhD in the Multimodal Intelligence (MINT) Lab at South Dakota State University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-cv",
           title: "CV",
-          description: "Last updated May 2026. Tailored academic and internship variants are available directly on request.",
+          description: "",
           section: "Navigation",
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "news-entered-the-final-year-of-my-phd-at-sdsu-graduation-targeted-for-fall-2026-on-the-market-for-research-scientist-research-engineer-and-applied-scientist-roles-as-well-as-postdocs-and-assistant-professor-positions",
-          title: 'Entered the final year of my PhD at SDSU. Graduation targeted for Fall...',
+        },{id: "news-entered-the-final-year-of-my-phd-at-south-dakota-state-university-graduation-targeted-for-fall-2026",
+          title: 'Entered the final year of my PhD at South Dakota State University; graduation...',
           description: "",
           section: "News",},{id: "news-first-author-paper-musdet-accepted-at-the-mula-workshop-cvpr-2026-pdf-code",
           title: 'First-author paper MuSDeT accepted at the MULA Workshop, CVPR 2026. [PDF] [Code]',
@@ -44,7 +44,7 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-musdet-lightweight-wearable-stress-detection",
           title: 'MuSDeT — Lightweight Wearable Stress Detection',
-          description: "Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. Accepted at MULA@CVPR 2026.",
+          description: "Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. Published at MULA@CVPR 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_musdet/";
             },},{id: "projects-uncertainty-aware-multimodal-physiological-fusion",
@@ -62,26 +62,6 @@ ninja.data = [{
           description: "Dataset + evaluation pipeline for long-form paragraph-level video description using CLIP-style encoders. In preparation, targeting CVPR 2027 workshop.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_clipccbench/";
-            },},{id: "projects-roambee-spatial-data-and-route-optimization",
-          title: 'Roambee — Spatial Data and Route Optimization',
-          description: "Geospatial and graph-based analysis of transportation sensor data to optimize routes and identify low-coverage regions.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_roambee/";
-            },},{id: "projects-breast-cancer-detection-with-cnns",
-          title: 'Breast Cancer Detection with CNNs',
-          description: "Deep-learning classifier for Invasive Ductal Carcinoma on IDC histopathology datasets.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_breast_cancer/";
-            },},{id: "projects-driver-drowsiness-detection",
-          title: 'Driver Drowsiness Detection',
-          description: "Deep-learning eye-state classifier with threshold-based drowsiness alarm for driver safety.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_drowsiness/";
-            },},{id: "projects-sentiment-analysis-of-social-media-pakistan-2018-general-election",
-          title: 'Sentiment Analysis of Social Media — Pakistan 2018 General Election',
-          description: "SVM-based sentiment classifier applied to social-media posts to analyze political sentiment around the 2018 Pakistan general election.",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_sentiment/";
             },},{
         id: 'social-email',
         title: 'email',
@@ -109,6 +89,13 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://scholar.google.com/citations?user=rkft9HUAAAAJ", "_blank");
+        },
+      },{
+        id: 'social-orcid',
+        title: 'ORCID',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://orcid.org/0009-0000-8729-4133", "_blank");
         },
       },{
       id: 'light-theme',
