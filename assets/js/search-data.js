@@ -36,9 +36,6 @@ ninja.data = [{
           section: "News",},{id: "news-first-author-paper-musdet-accepted-at-the-mula-workshop-cvpr-2026-pdf-code",
           title: 'First-author paper MuSDeT accepted at the MULA Workshop, CVPR 2026. [PDF] [Code]',
           description: "",
-          section: "News",},{id: "news-co-first-author-submission-to-miccai-2026-on-uncertainty-aware-multimodal-physiological-fusion-is-under-review",
-          title: 'Co-first-author submission to MICCAI 2026 on uncertainty-aware multimodal physiological fusion is under review....',
-          description: "",
           section: "News",},{id: "news-heading-to-cvpr-2026-in-denver-co-presenting-musdet-at-the-mula-workshop-happy-to-meet-other-folks-working-on-multimodal-learning-wearable-biosignals-or-long-form-video-understanding-please-reach-out",
           title: 'Heading to CVPR 2026 in Denver, CO. Presenting MuSDeT at the MULA Workshop....',
           description: "",
@@ -49,9 +46,9 @@ ninja.data = [{
               window.location.href = "/projects/1_musdet/";
             },},{id: "projects-uncertainty-aware-multimodal-physiological-fusion",
           title: 'Uncertainty-aware Multimodal Physiological Fusion',
-          description: "Representation learning and trustworthiness auditing for multimodal physiological signals. Under review at MICCAI 2026.",
+          description: "Representation learning and trustworthiness auditing for multimodal physiological signals. In preparation for Knowledge-Based Systems (KBS).",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/2_miccai/";
+              window.location.href = "/projects/2_kbs/";
             },},{id: "projects-vcs-vcb-long-form-video-description-evaluation",
           title: 'VCS / VCB — Long-Form Video Description Evaluation',
           description: "Video Comprehension Score (VCS) and Benchmark (VCB) for paragraph-level video description. In preparation, targeting CVPR 2027.",
