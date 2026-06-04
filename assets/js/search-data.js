@@ -44,21 +44,21 @@ ninja.data = [{
           description: "Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. Published at MULA@CVPR 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/1_musdet/";
-            },},{id: "projects-uncertainty-aware-multimodal-physiological-fusion",
-          title: 'Uncertainty-aware Multimodal Physiological Fusion',
-          description: "Representation learning and trustworthiness auditing for multimodal physiological signals. In preparation for Knowledge-Based Systems (KBS).",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_kbs/";
             },},{id: "projects-vcs-vcb-long-form-video-description-evaluation",
           title: 'VCS / VCB — Long-Form Video Description Evaluation',
           description: "Video Comprehension Score (VCS) and Benchmark (VCB) for paragraph-level video description. In preparation, targeting CVPR 2027.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/3_vcs/";
+              window.location.href = "/projects/2_vcs/";
             },},{id: "projects-clip-cc-bench-paragraph-level-video-description-evaluation",
           title: 'CLIP-CC Bench — Paragraph-Level Video Description Evaluation',
           description: "Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. Accepted (long paper) at EvalMG @ SIGIR 2026.",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/4_clipccbench/";
+              window.location.href = "/projects/3_clipccbench/";
+            },},{id: "projects-uncertainty-aware-multimodal-physiological-fusion",
+          title: 'Uncertainty-aware Multimodal Physiological Fusion',
+          description: "Representation learning and trustworthiness auditing for multimodal physiological signals. In preparation for Knowledge-Based Systems (KBS).",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/4_physiofusion/";
             },},{
         id: 'social-email',
         title: 'email',
