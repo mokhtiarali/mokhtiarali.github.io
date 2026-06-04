@@ -2,7 +2,7 @@
 layout: page
 title: VCS / VCB — Long-Form Video Description Evaluation
 description: Video Comprehension Score (VCS) and Benchmark (VCB) for paragraph-level video description. <strong>In preparation, targeting CVPR 2027.</strong>
-img: assets/img/3.webp
+img: assets/img/1_vcs_overview.webp
 importance: 4
 category: current
 related_publications: false
@@ -15,7 +15,7 @@ Existing caption-evaluation metrics (BLEU, METEOR, BERTScore, CIDEr, etc.) fail 
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-10">
-    <img class="img-fluid rounded" src="{{ '/assets/img/3_anim.webp' | relative_url }}" alt="VCS scoring illustration" loading="lazy" />
-    <p class="text-center mt-2"><em>VCS scoring vs. n-gram-overlap metrics on long-form descriptions.</em></p>
+    <img class="img-fluid rounded" src="{{ '/assets/img/2_vcs_overview_anim.webp' | relative_url }}" alt="Video Comprehension Score overview" loading="lazy" />
+    <p class="text-center mt-2"><em>Video Comprehension Score — global, local, and narrative alignment.</em></p>
   </div>
 </div>
