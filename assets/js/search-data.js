@@ -39,6 +39,9 @@ ninja.data = [{
           section: "News",},{id: "news-heading-to-cvpr-2026-in-denver-co-presenting-musdet-at-the-mula-workshop-happy-to-meet-other-folks-working-on-multimodal-learning-wearable-biosignals-or-long-form-video-understanding-please-reach-out",
           title: 'Heading to CVPR 2026 in Denver, CO. Presenting MuSDeT at the MULA Workshop....',
           description: "",
+          section: "News",},{id: "news-clip-cc-bench-accepted-as-a-long-paper-at-the-evalmg-workshop-sigir-2026-2nd-workshop-on-evaluation-for-multimodal-generation-melbourne-code",
+          title: 'CLIP-CC Bench accepted as a long paper at the EvalMG Workshop @ SIGIR...',
+          description: "",
           section: "News",},{id: "projects-musdet-lightweight-wearable-stress-detection",
           title: 'MuSDeT — Lightweight Wearable Stress Detection',
           description: "Multi-scale encoding, gated fusion, and temporal context for stress detection on wearable biosignals. Published at MULA@CVPR 2026.",
@@ -54,9 +57,9 @@ ninja.data = [{
           description: "Video Comprehension Score (VCS) and Benchmark (VCB) for paragraph-level video description. In preparation, targeting CVPR 2027.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_vcs/";
-            },},{id: "projects-clip-cc-bench-long-form-video-description-evaluation-suite",
-          title: 'CLIP-CC Bench — Long-Form Video Description Evaluation Suite',
-          description: "Dataset + evaluation pipeline for long-form paragraph-level video description using CLIP-style encoders. In preparation, targeting CVPR 2027 workshop.",
+            },},{id: "projects-clip-cc-bench-paragraph-level-video-description-evaluation",
+          title: 'CLIP-CC Bench — Paragraph-Level Video Description Evaluation',
+          description: "Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. Accepted (long paper) at EvalMG @ SIGIR 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_clipccbench/";
             },},{
