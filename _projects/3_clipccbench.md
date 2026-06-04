@@ -2,7 +2,7 @@
 layout: page
 title: CLIP-CC Bench — Paragraph-Level Video Description Evaluation
 description: Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. <strong>Accepted (long paper) at EvalMG @ SIGIR 2026.</strong>
-img: assets/img/1_clipcc_pipeline.png
+img: assets/img/3_clipcc_pipeline.png
 importance: 2
 category: current
 related_publications: false
@@ -16,14 +16,14 @@ CLIP-CC Bench provides a dataset and evaluation suite for comparing paragraph-le
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-12">
-    <img class="img-fluid rounded" src="{{ '/assets/img/1_clipcc_pipeline.png' | relative_url }}" alt="CLIP-CC Bench evaluation pipeline" loading="lazy" />
+    <img class="img-fluid rounded" src="{{ '/assets/img/3_clipcc_pipeline.png' | relative_url }}" alt="CLIP-CC Bench evaluation pipeline" loading="lazy" />
     <p class="text-center mt-2"><em>The CLIP-CC Bench evaluation pipeline.</em></p>
   </div>
 </div>
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-10">
-    <img class="img-fluid rounded" src="{{ '/assets/img/2_clipcc_dataset_anim.webp' | relative_url }}" alt="CLIP-CC dataset overview" loading="lazy" />
+    <img class="img-fluid rounded" src="{{ '/assets/img/3_clipcc_dataset_anim.webp' | relative_url }}" alt="CLIP-CC dataset overview" loading="lazy" />
     <p class="text-center mt-2"><em>The CLIP-CC dataset — 200+ narrated video clips, curated in three steps.</em></p>
   </div>
 </div>

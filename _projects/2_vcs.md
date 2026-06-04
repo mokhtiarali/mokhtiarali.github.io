@@ -2,7 +2,7 @@
 layout: page
 title: VCS / VCB — Long-Form Video Description Evaluation
 description: Video Comprehension Score (VCS) and Benchmark (VCB) for paragraph-level video description. <strong>In preparation, targeting CVPR 2027.</strong>
-img: assets/img/1_vcs_overview.webp
+img: assets/img/2_vcs_overview.webp
 importance: 4
 category: current
 related_publications: false
