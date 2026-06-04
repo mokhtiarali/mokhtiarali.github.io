@@ -2,7 +2,7 @@
 layout: page
 title: CLIP-CC Bench — Paragraph-Level Video Description Evaluation
 description: Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. <strong>Accepted (long paper) at EvalMG @ SIGIR 2026.</strong>
-img: assets/img/4.webp
+img: assets/img/clipcc_pipeline.png
 importance: 2
 category: current
 related_publications: false
@@ -13,6 +13,13 @@ related_publications: false
 **Code:** [Multimodal-Intelligence-Lab/CLIP-CC-Bench](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC-Bench) · **Dataset:** [CLIP-CC](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC) · [HuggingFace](https://huggingface.co/datasets/IVSL-SDSU/Clip-CC)
 
 CLIP-CC Bench provides a dataset and evaluation suite for comparing paragraph-level video description models under realistic long-form settings. The pipeline decouples retrieval-style evaluation (CLIP / VLM encoders) from generation-style evaluation, giving practitioners a clear picture of where models fail as video length and narrative complexity grow.
+
+<div class="row mt-3 justify-content-center">
+  <div class="col-sm-12">
+    <img class="img-fluid rounded" src="{{ '/assets/img/clipcc_pipeline.png' | relative_url }}" alt="CLIP-CC Bench evaluation pipeline" loading="lazy" />
+    <p class="text-center mt-2"><em>The CLIP-CC Bench evaluation pipeline.</em></p>
+  </div>
+</div>
 
 <div class="row mt-3 justify-content-center">
   <div class="col-sm-10">
