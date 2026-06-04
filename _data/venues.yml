@@ -12,3 +12,7 @@
 "KBS":
   url: https://www.sciencedirect.com/journal/knowledge-based-systems
   color: "#00897b"
+
+"EvalMG":
+  url: https://evalmg.github.io/
+  color: "#7b1fa2"

@@ -1,14 +1,14 @@
 ---
 layout: page
-title: CLIP-CC Bench — Long-Form Video Description Evaluation Suite
-description: Dataset + evaluation pipeline for long-form paragraph-level video description using CLIP-style encoders. <strong>In preparation, targeting CVPR 2027 workshop.</strong>
+title: CLIP-CC Bench — Paragraph-Level Video Description Evaluation
+description: Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. <strong>Accepted (long paper) at EvalMG @ SIGIR 2026.</strong>
 img: assets/img/4.webp
-importance: 4
+importance: 2
 category: current
 related_publications: false
 ---
 
-**Venue:** Targeting CVPR 2027 workshop.
+**Venue:** EvalMG Workshop @ SIGIR 2026, Melbourne — 2nd Workshop on Evaluation for Multimodal Generation (accepted, long paper).
 **Role:** First author.
 **Code:** [Multimodal-Intelligence-Lab/CLIP-CC-Bench](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC-Bench) · **Dataset:** [CLIP-CC](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC) · [HuggingFace](https://huggingface.co/datasets/IVSL-SDSU/Clip-CC)
 
