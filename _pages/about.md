@@ -6,7 +6,7 @@ subtitle: PhD Candidate, <a href='https://www.sdstate.edu/electrical-engineering
 
 profile:
   align: right
-  image: 0_profile.jpg
+  image: 0_profile_photo.jpg
   image_circular: false
   more_info: >
     <p>Brookings, SD</p>
