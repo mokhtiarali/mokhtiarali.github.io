@@ -1,3 +1,9 @@
+# Agent instruction files — local only, never pushed and never published.
+# Also listed in _config.yml `exclude:` so they stay out of _site -> gh-pages.
+AGENTS.md
+CLAUDE.md
+.claude/
+
 _site
 .bundle
 .DS_store
