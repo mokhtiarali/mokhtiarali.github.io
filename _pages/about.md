@@ -24,9 +24,9 @@ latest_posts:
   enabled: false
 ---
 
-I am a final-year PhD candidate in Computer Science at South Dakota State University, graduating December 2026, advised by Dr. Chulwoo Pack in the Multimodal Intelligence (MINT) Lab. My research sits at the intersection of **multimodal learning, vision-language models, and wearable biosignal analysis** — with recent emphasis on long-form video understanding, uncertainty-aware multimodal fusion for healthcare, and lightweight architectures for on-device stress and affect recognition.
+I am a final-year PhD candidate in Computer Science at South Dakota State University, graduating December 2026, advised by Dr. Chulwoo Pack in the Multimodal Intelligence (MINT) Lab.
 
-My doctoral trajectory builds on earlier work in medical image CNNs (breast cancer detection), human-state deep learning (driver drowsiness from eye-state video), and applied ML for social data. Today that arc continues through two published first-author papers — **MuSDeT** (MULA Workshop, **CVPR 2026** in Denver) and **CLIP-CC-Bench** (long paper presented at **EvalMG @ ACM SIGIR 2026**) — plus a second-author journal paper under review at **Knowledge-Based Systems (KBS)** and a long-form video benchmark (VCS/VCB) in preparation for **CVPR 2027**.
+My research is on **multimodal learning, vision–language models, and wearable biosignal analysis** — currently long-form video understanding and evaluation, uncertainty-aware multimodal fusion, and lightweight architectures for on-device stress and affect recognition. Two first-author workshop papers at **CVPR 2026** (MULA) and **ACM SIGIR 2026** (EvalMG), a journal paper under review at **Knowledge-Based Systems**, and a long-form video benchmark in preparation for **CVPR 2027**.
 
 I'm open to industry research and academic faculty positions for 2026–2027. My full record is in my [CV](/cv/).
 
