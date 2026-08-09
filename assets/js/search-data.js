@@ -36,8 +36,11 @@ ninja.data = [{
           section: "News",},{id: "news-presenting-musdet-at-the-mula-workshop-cvpr-2026-denver",
           title: 'Presenting MuSDeT at the MULA Workshop, CVPR 2026, Denver.',
           description: "",
-          section: "News",},{id: "news-clip-cc-bench-accepted-as-a-long-paper-at-evalmg-sigir-2026-melbourne-a-benchmark-for-paragraph-level-video-description-evaluation-in-vision-language-models-code-data",
-          title: 'CLIP-CC Bench accepted as a long paper at EvalMG @ SIGIR 2026, Melbourne...',
+          section: "News",},{id: "news-clip-cc-bench-accepted-as-a-long-paper-at-evalmg-acm-sigir-2026-melbourne-a-benchmark-for-paragraph-level-video-description-evaluation-in-video-language-models-code-data",
+          title: 'CLIP-CC-Bench accepted as a long paper at EvalMG @ ACM SIGIR 2026, Melbourne...',
+          description: "",
+          section: "News",},{id: "news-presented-clip-cc-bench-at-evalmg-acm-sigir-2026-in-melbourne-and-the-paper-is-now-on-arxiv-200-long-form-movie-clips-5-embedding-judges-17-video-language-models-ranked-by-borda-count-arxiv-leaderboard-code",
+          title: 'Presented CLIP-CC-Bench at EvalMG @ ACM SIGIR 2026 in Melbourne, and the paper...',
           description: "",
           section: "News",},{id: "projects-musdet-lightweight-wearable-stress-detection",
           title: 'MuSDeT — Lightweight Wearable Stress Detection',
@@ -50,13 +53,13 @@ ninja.data = [{
           section: "Projects",handler: () => {
               window.location.href = "/projects/2_vcs/";
             },},{id: "projects-clip-cc-bench-paragraph-level-video-description-evaluation",
-          title: 'CLIP-CC Bench — Paragraph-Level Video Description Evaluation',
-          description: "Dataset + benchmark for evaluating paragraph-level video descriptions in vision-language models. Accepted (long paper) at EvalMG @ SIGIR 2026.",
+          title: 'CLIP-CC-Bench — Paragraph-Level Video Description Evaluation',
+          description: "A benchmark and evaluation suite for long-form, paragraph-level video description in video–language models. Presented at EvalMG @ ACM SIGIR 2026.",
           section: "Projects",handler: () => {
               window.location.href = "/projects/3_clipccbench/";
-            },},{id: "projects-uncertainty-aware-multimodal-physiological-fusion",
-          title: 'Uncertainty-aware Multimodal Physiological Fusion',
-          description: "Representation learning and trustworthiness auditing for multimodal physiological signals. In preparation for Knowledge-Based Systems (KBS).",
+            },},{id: "projects-trustworthy-multimodal-learning-for-wearable-physiological-sensing",
+          title: 'Trustworthy Multimodal Learning for Wearable Physiological Sensing',
+          description: "Uncertainty-aware feature modulation and post-hoc reliability auditing for multimodal physiological fusion. Under review at Knowledge-Based Systems (KBS).",
           section: "Projects",handler: () => {
               window.location.href = "/projects/4_physiofusion/";
             },},{
