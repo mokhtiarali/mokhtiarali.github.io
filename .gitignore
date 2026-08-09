@@ -3,6 +3,9 @@
 AGENTS.md
 CLAUDE.md
 .claude/
+.github/agents/
+.github/instructions/
+.github/copilot-instructions.md
 
 _site
 .bundle
