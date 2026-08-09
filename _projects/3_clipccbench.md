@@ -10,8 +10,7 @@ related_publications: false
 
 **Venue:** EvalMG 2026, Melbourne — 2nd Workshop on Evaluation for Multimodal Generation, co-located with ACM SIGIR 2026 (long paper, presented).
 **Role:** Co-first author — Mukhtiar Ali, Harsh Dubey, and Sugam Mishra contributed equally.
-**Paper:** [arXiv:2608.04302](https://arxiv.org/abs/2608.04302) · **Leaderboard:** [project page](https://multimodal-intelligence-lab.github.io/CLIP-CC-Bench/)
-**Code:** [Multimodal-Intelligence-Lab/CLIP-CC-Bench](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC-Bench) · **Dataset:** [CLIP-CC](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC) · [HuggingFace](https://huggingface.co/datasets/IVSL-SDSU/Clip-CC)
+**Paper:** [arXiv:2608.04302](https://arxiv.org/abs/2608.04302) · **Code:** [Multimodal-Intelligence-Lab/CLIP-CC-Bench](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC-Bench) · **Dataset:** [CLIP-CC](https://github.com/Multimodal-Intelligence-Lab/CLIP-CC) · [HuggingFace](https://huggingface.co/datasets/IVSL-SDSU/Clip-CC) · **Leaderboard:** [project page](https://multimodal-intelligence-lab.github.io/CLIP-CC-Bench/)
 
 Benchmarking video–language models has largely focused on short clips scored with single-sentence metrics, which leaves an open question: can current systems actually produce accurate long-form, paragraph-level descriptions? CLIP-CC-Bench is built to answer that.
 

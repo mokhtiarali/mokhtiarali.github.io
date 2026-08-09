@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Presenting **MuSDeT** at the **MULA Workshop, CVPR 2026**, Denver.
+Presented **MuSDeT** at the **MULA Workshop, CVPR 2026**, Denver.
